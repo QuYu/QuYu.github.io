@@ -17,7 +17,7 @@ Awards
 
 Publications
 ======
-#### Journal Papers
+## Journal Papers
 1. **[TSE 2023]** Jianlei Chi, Yu Qu, Ting Liu, Qinghua Zheng, and Heng Yin. "Seqtrans: Automatic vulnerability fix via sequence to sequence learning." IEEE Transactions on Software Engineering, vol. 49, no. 2, pp. 564–585, 2023. (Data and Code)
 
 2. **[IST 2021]** Yu Qu, Jianlei Chi, and Heng Yin. "Leveraging developer information for efficient effort-aware bug prediction." Information and Software Technology (2021): 106605.
