@@ -76,7 +76,7 @@ Publications
 
 2. **[WETSoM 2014]** **Yu Qu**, Qinghua Zheng, Ting Liu, Jian Li, and Xiaohong Guan.  "In-depth measurement and analysis on densification power law of software execution." in Proceedings of the 5th International Workshop on Emerging Trends in Software Metrics (WETSoM, co-located with ICSE 2014), 2014, pp. 55-58.
 
-3. **[Worm 2007]** Qinghua Zheng, Ting Liu, Xiaohong Guan, **Yu Qu**, and Na Wang. "A new worm exploiting IPv4-IPv6 dual-stack networks." in Proceedings of the 2007 ACM workshop on Recurring malcode (co-located with CCS 2007), 2007, pp. 9-15.\
+3. **[Worm 2007]** Qinghua Zheng, Ting Liu, Xiaohong Guan, **Yu Qu**, and Na Wang. "A new worm exploiting IPv4-IPv6 dual-stack networks." in Proceedings of the 2007 ACM workshop on Recurring malcode (co-located with CCS 2007), 2007, pp. 9-15.
 
 Services
 ======
