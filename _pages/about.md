@@ -20,11 +20,11 @@ Publications
 ## Journal Papers
 1. **[TSE 2023]** Jianlei Chi, **Yu Qu**, Ting Liu, Qinghua Zheng, and Heng Yin. "Seqtrans: Automatic vulnerability fix via sequence to sequence learning." IEEE Transactions on Software Engineering, vol. 49, no. 2, pp. 564–585, 2023. (Data and Code)
 
-2. **[TSE 2021]** Yu Qu, Qinghua Zheng, Jianlei Chi, Yangxu Jin, Ancheng He, Di Cui, Hengshan Zhang, and Ting Liu. "Using K-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance." IEEE Transactions on Software Engineering, vol. 47, no. 2, pp. 348–366, 2021. (Data and Code)
+2. **[TSE 2021]** **Yu Qu**, Qinghua Zheng, Jianlei Chi, Yangxu Jin, Ancheng He, Di Cui, Hengshan Zhang, and Ting Liu. "Using K-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance." IEEE Transactions on Software Engineering, vol. 47, no. 2, pp. 348–366, 2021. (Data and Code)
 
-3. **[IST 2021]** Yu Qu, Jianlei Chi, and Heng Yin. "Leveraging developer information for efficient effort-aware bug prediction." Information and Software Technology, vol. 137, p. 106605, 2021.
+3. **[IST 2021]** **Yu Qu**, Jianlei Chi, and Heng Yin. "Leveraging developer information for efficient effort-aware bug prediction." Information and Software Technology, vol. 137, p. 106605, 2021.
 
-4. **[EMSE 2021]** Yu Qu, and Heng Yin. "Evaluating network embedding techniques' performances in software bug prediction." Empirical Software Engineering, vol. 26, pp. 1–44, 2021. (Data and Code)
+4. **[EMSE 2021]** **Yu Qu**, and Heng Yin. "Evaluating network embedding techniques' performances in software bug prediction." Empirical Software Engineering, vol. 26, pp. 1–44, 2021. (Data and Code)
 
 5. **[JSS 2020]** Jianlei Chi, **Yu Qu**\*, Qinghua Zheng, Zijiang Yang, Wuxia Jin, Di Cui, and Ting Liu. "Relation-based test case prioritization for regression testing." Journal of Systems and Software, vol. 163, p. 110539, 2020.  (* Corresponding author)
 
@@ -32,11 +32,38 @@ Publications
 
 7. **[JSS 2015]** **Yu Qu**, Xiaohong Guan, Qinghua Zheng, Ting Liu, Lidan Wang, Yuqiao Hou, and Zijiang Yang. "Exploring community structure of software call graph and its applications in class cohesion measurement." Journal of Systems and Software, vol. 108, pp. 193-210, 2015.
 
-[TFS 2015] Hengshan Zhang, Qinghua Zheng, Ting Liu, Zijiang Yang, Minnan Luo, and Yu Qu. "Improving linguistic pairwise comparison consistency via linguistic discrete regions." IEEE Transactions on Fuzzy Systems, vol. 24, pp. 600-614, 2015.
+8. **[TFS 2015]** Hengshan Zhang, Qinghua Zheng, Ting Liu, Zijiang Yang, Minnan Luo, and **Yu Qu**. "Improving linguistic pairwise comparison consistency via linguistic discrete regions." IEEE Transactions on Fuzzy Systems, vol. 24, pp. 600-614, 2015.
 
-[SIGSOFT SEN 2015] Yu Qu, Xiaohong Guan, Qinghua Zheng, Ting Liu, Jianliang Zhou, and Jian Li. "Calling network: A new method for modeling software runtime behaviors." ACM SIGSOFT Software Engineering Notes, vol. 40, pp. 1-8, 2015.
+9. **[SIGSOFT SEN 2015]** **Yu Qu**, Xiaohong Guan, Qinghua Zheng, Ting Liu, Jianliang Zhou, and Jian Li. "Calling network: A new method for modeling software runtime behaviors." ACM SIGSOFT Software Engineering Notes, vol. 40, pp. 1-8, 2015.
 
-[CPE 2012] Ting Liu, Xiaohong Guan, Yu Qu, and Yanan Sun. "A layered classification for malicious function identification and malware detection." Concurrency and Computation: Practice and Experience, vol. 24, pp. 1169-1179, 2012.
+10. **[CPE 2012]** Ting Liu, Xiaohong Guan, **Yu Qu**, and Yanan Sun. "A layered classification for malicious function identification and malware detection." Concurrency and Computation: Practice and Experience, vol. 24, pp. 1169-1179, 2012.
 
-[Network 2009] Ting Liu, Xiaohong Guan, Qinghua Zheng, and Yu Qu, "A new worm exploiting IPv6 and IPv4-IPv6 dual-stack networks: experiment, modeling, simulation, and defense." IEEE network, vol. 23, pp. 22-29, 2009.
+11. **[Network 2009]** Ting Liu, Xiaohong Guan, Qinghua Zheng, and **Yu Qu**. "A new worm exploiting IPv6 and IPv4-IPv6 dual-stack networks: experiment, modeling, simulation, and defense." IEEE network, vol. 23, pp. 22-29, 2009.
+
+## Conference Papers
+1. **[ICSE 2023]** Wuxia Jin, Yitong Dai, Jianguo Zheng, **Yu Qu**, Ming Fan, Zhenyu Huang, Dezhi Huang, and Ting Liu. "Dependency Facade: The Coupling and Conflicts between Android Framework and Its Customization." to appear in the 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023), May 2023.
+
+2. **[USENIX Security 2022]** Sheng Yu, **Yu Qu**, Xunchao Hu, and Heng Yin. "{DeepDi}: Learning a relational graph convolutional network model on instructions for fast and accurate disassembly." in 31st USENIX Security Symposium (USENIX Security 22), 2022, pp. 2709–2725. (Open Access, Data and Code)
+
+3. **[NDSS 2022]** Zhenxiao Qi, **Yu Qu**, and Heng Yin. "Logicmem: Automatic profile generation for binary-only memory forensics via logic inference." in Proceedings of the 2022 Network and Distributed System Security Symposium. Internet Society, 2022. (Open Access, Code)
+
+4. **[CCS 2021]** Xuezixiang Li, **Yu Qu**, and Heng Yin. 2021. "Palmtree: Learning an assembly language model for instruction embedding." in Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security, 2021, pp. 3236–3251. https://dl.acm.org/doi/10.1145/3460120.3484587. (Open Access, Data and Code)
+
+5. **[RAID 2019]** Ali Davanian, Zhenxiao Qi, **Yu Qu**, and Heng Yin. "DECAF++: Elastic Whole-System Dynamic Taint Analysis." In 22nd International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2019), 2019, pp. 31-45. (Open Access)
+
+6. **[ICSE 2019]** Di Cui, Ting Liu, Yuanfang Cai, Qinghua Zheng, Qiong Feng, Wuxia Jin, Jiaqi Guo, and **Yu Qu**. "Investigating the impact of multiple dependency structures on software defects." In Proceedings of the 41st International Conference on Software Engineering, pp. 584-595. IEEE Press, 2019.
+
+7. **[ASE 2018]** **Yu Qu**, Ting Liu, Jianlei Chi, Yangxu Jin, Di Cui, Ancheng He, and Qinghua Zheng. "node2defect: using network embedding to improve software defect prediction." In Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering, pp. 844-849. ACM, 2018. (Data and Code)
+
+8. **[COMPSAC 2018]** Jianlei Chi, **Yu Qu**, Qinghua Zheng, Zijiang Yang, Wuxia Jin, Di Cui, and Ting Liu. "Test Case Prioritization Based on Method Call Sequences." in 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC), 2018, pp. 251-256.
+
+9. **[COMPSAC 2018]** Yangxu Jin, Ting Liu, Ancheng He, **Yu Qu**, and Jianlei Chi.  "Android Malware Detector Exploiting Convolutional Neural Network and Adaptive Classifier Selection." in 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC), 2018, pp. 833-834.
+
+10. **[FUZZ-IEEE 2018]** Hengshan Zhang, Qinghua Zheng, Zhongmin Wang, Yanping Chen, **Yu Qu**, and Ting Liu. "Crowd Intelligence for Decision Making Based on Positive and Negative Comparing With Linguistic Scale." in 2018 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2018, pp. 1-8.
+
+11. **[FUZZ-IEEE 2016]** Hengshan Zhang, Qinghua Zheng, Ting Liu, and **Yu Qu**.  "Mixed intuitionistic fuzzy aggregation operators decreasing results of unusual IFNs." in 2016 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2016, pp. 896-903.
+
+12. **[TrustCom 2012]** Yanan Sun, Xiaohong Guan, Ting Liu, and **Yu Qu**. "An identity authentication mechanism based on timing covert channel." in 2012 IEEE 11th International Conference on Trust, Security and Privacy in Computing and Communications, 2012, pp. 832-836.
+
+13. **[NPC 2011]** Ting Liu, Xiaohong Guan, **Yu Qu**, and Yanan Sun. "A layered detection method for malware identification." in IFIP International Conference on Network and Parallel Computing, 2011, pp. 166-175.
 
