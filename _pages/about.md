@@ -18,13 +18,13 @@ Awards
 Publications
 ======
 ## Journal Papers
-1. **[TSE 2023]** Jianlei Chi, **Yu Qu**, Ting Liu, Qinghua Zheng, and Heng Yin. "Seqtrans: Automatic vulnerability fix via sequence to sequence learning." IEEE Transactions on Software Engineering, vol. 49, no. 2, pp. 564–585, 2023. (**[Data and Code](https://github.com/chijianlei/SeqTrans)**)
+1. **[TSE 2023]** Jianlei Chi, **Yu Qu**, Ting Liu, Qinghua Zheng, and Heng Yin. "Seqtrans: Automatic vulnerability fix via sequence to sequence learning." IEEE Transactions on Software Engineering, vol. 49, no. 2, pp. 564–585, 2023. ([Data and Code](https://github.com/chijianlei/SeqTrans))
 
-2. **[TSE 2021]** **Yu Qu**, Qinghua Zheng, Jianlei Chi, Yangxu Jin, Ancheng He, Di Cui, Hengshan Zhang, and Ting Liu. "Using K-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance." IEEE Transactions on Software Engineering, vol. 47, no. 2, pp. 348–366, 2021. (**[Data and Code](https://github.com/XJTU-SE/top-core)**)
+2. **[TSE 2021]** **Yu Qu**, Qinghua Zheng, Jianlei Chi, Yangxu Jin, Ancheng He, Di Cui, Hengshan Zhang, and Ting Liu. "Using K-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance." IEEE Transactions on Software Engineering, vol. 47, no. 2, pp. 348–366, 2021. ([Data and Code](https://github.com/XJTU-SE/top-core))
 
 3. **[IST 2021]** **Yu Qu**, Jianlei Chi, and Heng Yin. "Leveraging developer information for efficient effort-aware bug prediction." Information and Software Technology, vol. 137, p. 106605, 2021.
 
-4. **[EMSE 2021]** **Yu Qu**, and Heng Yin. "Evaluating network embedding techniques' performances in software bug prediction." Empirical Software Engineering, vol. 26, pp. 1–44, 2021. (**[Data and Code](https://github.com/quyutest/node2defect)**)
+4. **[EMSE 2021]** **Yu Qu**, and Heng Yin. "Evaluating network embedding techniques' performances in software bug prediction." Empirical Software Engineering, vol. 26, pp. 1–44, 2021. ([Data and Code](https://github.com/quyutest/node2defect))
 
 5. **[JSS 2020]** Jianlei Chi, **Yu Qu**\*, Qinghua Zheng, Zijiang Yang, Wuxia Jin, Di Cui, and Ting Liu. "Relation-based test case prioritization for regression testing." Journal of Systems and Software, vol. 163, p. 110539, 2020.  (* Corresponding author)
 
@@ -43,17 +43,17 @@ Publications
 ## Conference Papers
 1. **[ICSE 2023]** Wuxia Jin, Yitong Dai, Jianguo Zheng, **Yu Qu**, Ming Fan, Zhenyu Huang, Dezhi Huang, and Ting Liu. "Dependency Facade: The Coupling and Conflicts between Android Framework and Its Customization." to appear in the 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023), May 2023.
 
-2. **[USENIX Security 2022]** Sheng Yu, **Yu Qu**, Xunchao Hu, and Heng Yin. "{DeepDi}: Learning a relational graph convolutional network model on instructions for fast and accurate disassembly." in 31st USENIX Security Symposium (USENIX Security 22), 2022, pp. 2709–2725. (Open Access, Data and Code)
+2. **[USENIX Security 2022]** Sheng Yu, **Yu Qu**, Xunchao Hu, and Heng Yin. "{DeepDi}: Learning a relational graph convolutional network model on instructions for fast and accurate disassembly." in 31st USENIX Security Symposium (USENIX Security 22), 2022, pp. 2709–2725. ([Open Access](https://www.usenix.org/system/files/sec22-yu-sheng.pdf), [Data and Code](https://github.com/DeepBitsTechnology/DeepDi))
 
-3. **[NDSS 2022]** Zhenxiao Qi, **Yu Qu**, and Heng Yin. "Logicmem: Automatic profile generation for binary-only memory forensics via logic inference." in Proceedings of the 2022 Network and Distributed System Security Symposium. Internet Society, 2022. (Open Access, Code)
+3. **[NDSS 2022]** Zhenxiao Qi, **Yu Qu**, and Heng Yin. "Logicmem: Automatic profile generation for binary-only memory forensics via logic inference." in Proceedings of the 2022 Network and Distributed System Security Symposium. Internet Society, 2022. ([Open Access](https://www.ndss-symposium.org/wp-content/uploads/2022-324-paper.pdf), [Code](https://github.com/bitsecurerlab/LogicMem))
 
-4. **[CCS 2021]** Xuezixiang Li, **Yu Qu**, and Heng Yin. 2021. "Palmtree: Learning an assembly language model for instruction embedding." in Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security, 2021, pp. 3236–3251. (Open Access, Data and Code)
+4. **[CCS 2021]** Xuezixiang Li, **Yu Qu**, and Heng Yin. 2021. "Palmtree: Learning an assembly language model for instruction embedding." in Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security, 2021, pp. 3236–3251. ([Open Access](https://dl.acm.org/doi/pdf/10.1145/3460120.3484587), [Data and Code](https://github.com/palmtreemodel/PalmTree))
 
-5. **[RAID 2019]** Ali Davanian, Zhenxiao Qi, **Yu Qu**, and Heng Yin. "DECAF++: Elastic Whole-System Dynamic Taint Analysis." In 22nd International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2019), 2019, pp. 31-45. (Open Access)
+5. **[RAID 2019]** Ali Davanian, Zhenxiao Qi, **Yu Qu**, and Heng Yin. "DECAF++: Elastic Whole-System Dynamic Taint Analysis." In 22nd International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2019), 2019, pp. 31-45. ([Open Access](https://www.usenix.org/system/files/raid2019-davanian.pdf))
 
 6. **[ICSE 2019]** Di Cui, Ting Liu, Yuanfang Cai, Qinghua Zheng, Qiong Feng, Wuxia Jin, Jiaqi Guo, and **Yu Qu**. "Investigating the impact of multiple dependency structures on software defects." In Proceedings of the 41st International Conference on Software Engineering, pp. 584-595. IEEE Press, 2019.
 
-7. **[ASE 2018]** **Yu Qu**, Ting Liu, Jianlei Chi, Yangxu Jin, Di Cui, Ancheng He, and Qinghua Zheng. "node2defect: using network embedding to improve software defect prediction." In Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering, pp. 844-849. ACM, 2018. (Data and Code)
+7. **[ASE 2018]** **Yu Qu**, Ting Liu, Jianlei Chi, Yangxu Jin, Di Cui, Ancheng He, and Qinghua Zheng. "node2defect: using network embedding to improve software defect prediction." In Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering, pp. 844-849. ACM, 2018. ([Data and Code](https://github.com/quyutest/node2defect))
 
 8. **[COMPSAC 2018]** Jianlei Chi, **Yu Qu**, Qinghua Zheng, Zijiang Yang, Wuxia Jin, Di Cui, and Ting Liu. "Test Case Prioritization Based on Method Call Sequences." in 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC), 2018, pp. 251-256.
 
