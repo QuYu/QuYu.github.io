@@ -80,10 +80,9 @@ Publications
 
 Services
 ======
-* Technical Program Chair, The 2nd IEEE International Workshop on Trustworthy Software Systems (TrustSoft 2016)
-* Program Committee of ISSRE 2021, ISSRE 2022
-
-* Reviewer:
+* **Technical Program Chair**, The 2nd IEEE International Workshop on Trustworthy Software Systems (TrustSoft 2016)
+* **Program Committee** of ISSRE 2021, ISSRE 2022
+* **Reviewer**:
     + IEEE Transactions on Software Engineering
     + Journal of Systems and Software
     + IEEE Transactions on Reliability
@@ -91,8 +90,7 @@ Services
     + Information and Software Technology
     + Software Quality Journal (SQJ)
     + Cybersecurity Journal
-
-* Subreviewer:
+* **Subreviewer**:
     + DFRWS USA 2023
     + International Workshop on Digital Crime and Forensics 2016 (IWDCF 2016)
     + The 1st IEEE International Workshop on Trustworthy Software Systems (TrustSoft 2015)
