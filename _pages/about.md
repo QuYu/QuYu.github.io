@@ -20,17 +20,17 @@ Publications
 ## Journal Papers
 1. **[TSE 2023]** Jianlei Chi, **Yu Qu**, Ting Liu, Qinghua Zheng, and Heng Yin. "Seqtrans: Automatic vulnerability fix via sequence to sequence learning." IEEE Transactions on Software Engineering, vol. 49, no. 2, pp. 564–585, 2023. (Data and Code)
 
-2. **[TSE 2021]** Yu Qu, Qinghua Zheng, Jianlei Chi, Yangxu Jin, Ancheng He, Di Cui, Hengshan Zhang, and Ting Liu.  "Using K-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance." IEEE Transactions on Software Engineering, vol. 47, no. 2, pp. 348–366, 2021. (Data and Code)
+2. **[TSE 2021]** Yu Qu, Qinghua Zheng, Jianlei Chi, Yangxu Jin, Ancheng He, Di Cui, Hengshan Zhang, and Ting Liu. "Using K-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance." IEEE Transactions on Software Engineering, vol. 47, no. 2, pp. 348–366, 2021. (Data and Code)
 
 3. **[IST 2021]** Yu Qu, Jianlei Chi, and Heng Yin. "Leveraging developer information for efficient effort-aware bug prediction." Information and Software Technology, vol. 137, p. 106605, 2021.
 
-4. **[EMSE 2021]** Yu Qu, and Heng Yin. "Evaluating network embedding techniques’ performances in software bug prediction." Empirical Software Engineering, vol. 26, pp. 1–44, 2021. (Data and Code)
+4. **[EMSE 2021]** Yu Qu, and Heng Yin. "Evaluating network embedding techniques' performances in software bug prediction." Empirical Software Engineering, vol. 26, pp. 1–44, 2021. (Data and Code)
 
-5. **[JSS 2020]** Jianlei Chi, **Yu Qu***, Qinghua Zheng, Zijiang Yang, Wuxia Jin, Di Cui, and Ting Liu. "Relation-based test case prioritization for regression testing." Journal of Systems and Software, vol. 163, p. 110539, 2020.  (* Corresponding author)
+5. **[JSS 2020]** Jianlei Chi, **Yu Qu**\*, Qinghua Zheng, Zijiang Yang, Wuxia Jin, Di Cui, and Ting Liu. "Relation-based test case prioritization for regression testing." Journal of Systems and Software, vol. 163, p. 110539, 2020.  (* Corresponding author)
 
-[SQJ 2018] Wuxia Jin, Ting Liu, Yu Qu, Qinghua Zheng, Di Cui, and Jianlei Chi. "Dynamic structure measurement for distributed software." Software Quality Journal, vol. 26, pp. 1119-1145, 2018.
+6. **[SQJ 2018]** Wuxia Jin, Ting Liu, **Yu Qu**, Qinghua Zheng, Di Cui, and Jianlei Chi. "Dynamic structure measurement for distributed software." Software Quality Journal, vol. 26, pp. 1119-1145, 2018.
 
-[JSS 2015] Yu Qu, Xiaohong Guan, Qinghua Zheng, Ting Liu, Lidan Wang, Yuqiao Hou, and Zijiang Yang. "Exploring community structure of software call graph and its applications in class cohesion measurement." Journal of Systems and Software, vol. 108, pp. 193-210, 2015.
+7. **[JSS 2015]** **Yu Qu**, Xiaohong Guan, Qinghua Zheng, Ting Liu, Lidan Wang, Yuqiao Hou, and Zijiang Yang. "Exploring community structure of software call graph and its applications in class cohesion measurement." Journal of Systems and Software, vol. 108, pp. 193-210, 2015.
 
 [TFS 2015] Hengshan Zhang, Qinghua Zheng, Ting Liu, Zijiang Yang, Minnan Luo, and Yu Qu. "Improving linguistic pairwise comparison consistency via linguistic discrete regions." IEEE Transactions on Fuzzy Systems, vol. 24, pp. 600-614, 2015.
 
