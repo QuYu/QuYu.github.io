@@ -18,15 +18,15 @@ Awards
 Publications
 ======
 ## Journal Papers
-1. **[TSE 2023]** Jianlei Chi, Yu Qu, Ting Liu, Qinghua Zheng, and Heng Yin. "Seqtrans: Automatic vulnerability fix via sequence to sequence learning." IEEE Transactions on Software Engineering, vol. 49, no. 2, pp. 564–585, 2023. (Data and Code)
+1. **[TSE 2023]** Jianlei Chi, **Yu Qu**, Ting Liu, Qinghua Zheng, and Heng Yin. "Seqtrans: Automatic vulnerability fix via sequence to sequence learning." IEEE Transactions on Software Engineering, vol. 49, no. 2, pp. 564–585, 2023. (Data and Code)
 
-2. **[IST 2021]** Yu Qu, Jianlei Chi, and Heng Yin. "Leveraging developer information for efficient effort-aware bug prediction." Information and Software Technology (2021): 106605.
+2. **[TSE 2021]** Yu Qu, Qinghua Zheng, Jianlei Chi, Yangxu Jin, Ancheng He, Di Cui, Hengshan Zhang, and Ting Liu.  "Using K-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance." IEEE Transactions on Software Engineering, vol. 47, no. 2, pp. 348–366, 2021. (Data and Code)
 
-[EMSE 2021] Yu Qu, and Heng Yin. "Evaluating network embedding techniques’ performances in software bug prediction." Empirical Software Engineering 26, no. 4 (2021): 1-44. (Data and Code)
+3. **[IST 2021]** Yu Qu, Jianlei Chi, and Heng Yin. "Leveraging developer information for efficient effort-aware bug prediction." Information and Software Technology, vol. 137, p. 106605, 2021.
 
-[JSS 2020] Jianlei Chi, Yu Qu*, Qinghua Zheng, Zijiang Yang, Wuxia Jin, Di Cui, and Ting Liu. "Relation-based test case prioritization for regression testing." Journal of Systems and Software 163 (2020): 110539.  (* Corresponding author)
+4. **[EMSE 2021]** Yu Qu, and Heng Yin. "Evaluating network embedding techniques’ performances in software bug prediction." Empirical Software Engineering, vol. 26, pp. 1–44, 2021. (Data and Code)
 
-[TSE 2019] Yu Qu, Qinghua Zheng, Jianlei Chi, Yangxu Jin, Ancheng He, Di Cui, Hengshan Zhang, and Ting Liu.  "Using K-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance." IEEE Transactions on Software Engineering, 2019. (Data and Code)
+5. **[JSS 2020]** Jianlei Chi, **Yu Qu***, Qinghua Zheng, Zijiang Yang, Wuxia Jin, Di Cui, and Ting Liu. "Relation-based test case prioritization for regression testing." Journal of Systems and Software, vol. 163, p. 110539, 2020.  (* Corresponding author)
 
 [SQJ 2018] Wuxia Jin, Ting Liu, Yu Qu, Qinghua Zheng, Di Cui, and Jianlei Chi. "Dynamic structure measurement for distributed software." Software Quality Journal, vol. 26, pp. 1119-1145, 2018.
 
