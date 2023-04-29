@@ -67,3 +67,29 @@ Publications
 
 13. **[NPC 2011]** Ting Liu, Xiaohong Guan, **Yu Qu**, and Yanan Sun. "A layered detection method for malware identification." in IFIP International Conference on Network and Parallel Computing, 2011, pp. 166-175.
 
+## Workshop Papers
+1. **[SCTDCP 2016]** Wuxia Jin, Ting Liu, Yu Qu, Jianlei Chi, Di Cui, and Qinghua Zheng. "Dynamic cohesion measurement for distributed system." in Proceedings of the 1st International Workshop on Specification, Comprehension, Testing, and Debugging of Concurrent Programs (SCTDCP, co-located with ASE 2016), 2016, pp. 20-26.
+
+2. **[WETSoM 2014]** Yu Qu, Qinghua Zheng, Ting Liu, Jian Li, and Xiaohong Guan.  "In-depth measurement and analysis on densification power law of software execution." in Proceedings of the 5th International Workshop on Emerging Trends in Software Metrics (WETSoM, co-located with ICSE 2014), 2014, pp. 55-58.
+
+3. **[Worm 2007]** Qinghua Zheng, Ting Liu, Xiaohong Guan, Yu Qu, and Na Wang. "A new worm exploiting IPv4-IPv6 dual-stack networks." in Proceedings of the 2007 ACM workshop on Recurring malcode (co-located with CCS 2007), 2007, pp. 9-15.
+
+Services
+======
+* Technical Program Chair, The 2nd IEEE International Workshop on Trustworthy Software Systems (TrustSoft 2016)
+* Program Committee of ISSRE 2021, ISSRE 2022
+
+* Reviewer:
+    + IEEE Transactions on Software Engineering
+    + Journal of Systems and Software
+    + IEEE Transactions on Reliability
+    + IEEE Transactions on Dependable and Secure Computing
+    + Information and Software Technology
+    + Software Quality Journal (SQJ)
+    + Cybersecurity Journal
+
+* Subreviewer:
+    + DFRWS USA 2023
+    + International Workshop on Digital Crime and Forensics 2016 (IWDCF 2016)
+    + The 1st IEEE International Workshop on Trustworthy Software Systems (TrustSoft 2015)
+    + IEEE Global Communications Conference 2014 (GLOBECOM 2014)
