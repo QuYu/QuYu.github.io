@@ -78,6 +78,13 @@ Publications
 
 3. **[Worm 2007]** Qinghua Zheng, Ting Liu, Xiaohong Guan, **Yu Qu**, and Na Wang. "A new worm exploiting IPv4-IPv6 dual-stack networks." in Proceedings of the 2007 ACM workshop on Recurring malcode (co-located with CCS 2007), 2007, pp. 9-15.
 
+## 中文论文
+1.	刘靖雯,晋武侠,**屈宇**,金洋旭,范铭.面向软件缺陷预测的网络嵌入特征研究.信息安全学报,2021,6(3):25.
+2.	**屈宇**,潘点飞,刘谦谦,范铭,池剑磊.载人航天工程软件复杂度度量及缺陷预测.2016年载人航天工程软件工程化新技术研讨会,2016:449-459.
+3.	侯雨桥,**屈宇**,刘林峰,郑庆华,刘烃,郑超,杨子江.基于调用结构的软件可生存性评估方法.中南大学学报(自然科学版),2013,44(S1):443-448.
+4.	**屈宇**,管晓宏,郑庆华,何岚,吕复强,王志文.开放式Web平台可信性:问题与对策.武汉大学学报(理学版),2010,56(4):451-456.
+5.	刘烃,郑庆华,管晓宏,**屈宇**,王娜.基于随机实验的蠕虫传播预测研究.通信学报,2007,28(12):72-77.
+
 Services
 ======
 * **Technical Program Chair**, The 2nd IEEE International Workshop on Trustworthy Software Systems (TrustSoft 2016)
