@@ -51,7 +51,7 @@ Publications
 
 3. **[NDSS 2022]** Zhenxiao Qi, **Yu Qu**, and Heng Yin. "Logicmem: Automatic profile generation for binary-only memory forensics via logic inference." in Proceedings of the 2022 Network and Distributed System Security Symposium. Internet Society, 2022. ([Open Access](https://www.ndss-symposium.org/wp-content/uploads/2022-324-paper.pdf), [Code](https://github.com/bitsecurerlab/LogicMem))
 
-4. **[CCS 2021]** Xuezixiang Li, **Yu Qu**, and Heng Yin. 2021. "Palmtree: Learning an assembly language model for instruction embedding." in Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security, 2021, pp. 3236–3251. ([Open Access](https://dl.acm.org/doi/pdf/10.1145/3460120.3484587), [Data and Code](https://github.com/palmtreemodel/PalmTree))
+4. **[CCS 2021]** Xuezixiang Li, **Yu Qu**, and Heng Yin. "Palmtree: Learning an assembly language model for instruction embedding." in Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security, 2021, pp. 3236–3251. ([Open Access](https://dl.acm.org/doi/pdf/10.1145/3460120.3484587), [Data and Code](https://github.com/palmtreemodel/PalmTree))
 
 5. **[RAID 2019]** Ali Davanian, Zhenxiao Qi, **Yu Qu**, and Heng Yin. "DECAF++: Elastic Whole-System Dynamic Taint Analysis." In 22nd International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2019), 2019, pp. 31-45. ([Open Access](https://www.usenix.org/system/files/raid2019-davanian.pdf))
 
