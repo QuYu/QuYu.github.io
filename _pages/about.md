@@ -99,6 +99,7 @@ Services
     + Information and Software Technology
     + Software Quality Journal (SQJ)
     + Cybersecurity Journal
+    + Automated Software Engineering (Journal)
 * **Subreviewer**:
     + EAI SecureComm 2023
     + DFRWS USA 2023
