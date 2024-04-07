@@ -10,6 +10,10 @@ redirect_from:
 
 I'm a Lecturer in the Department of Computer Science and Engineering at [University of California, Riverside](https://www.ucr.edu) (UCR). I used to be an Assistant Project Scientist and a Postdoctoral Researcher at the [Center for Research and Education in Cyber Security and Privacy](https://cresp.cs.ucr.edu) (CRESP) at UCR led by Prof. [Heng Yin](https://www.cs.ucr.edu/~heng). I obtained my Ph.D. from the School of Electronic and Information Engineering, [Xi'an Jiaotong University](http://en.xjtu.edu.cn) under the supervision of Prof. Xiaohong Guan in 2015. My research interests include Software Security, Software Engineering, and applying Machine Learning and Deep Learning theories to analyzing software systems. [My Google Scholar](https://scholar.google.com/citations?user=gTsJkFkAAAAJ), [My Web of Science Profile](https://www.webofscience.com/wos/author/record/2109000).
 
+Updates
+======
+I'm now working as a senior engineer at Xi'an Thermal Power Research Institute, starting from December 2023. My new e-mail is: quyu[AT]tpri.com.cn.
+
 Awards
 ======
 * **2022 Best Machine Learning and Security Paper** (awarded by Cybersecurity Journal, selected from all the security papers published in the year of 2021)
