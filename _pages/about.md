@@ -12,7 +12,7 @@ I'm a Lecturer in the Department of Computer Science and Engineering at [Univers
 
 Updates
 ======
-I'm now working as a senior engineer at Xi'an Thermal Power Research Institute, starting from December 2023. My new e-mail is: quyu[AT]tpri.com.cn.
+I'm now working as a senior engineer at Xi'an Thermal Power Research Institute, starting from December 2023. My new e-mail is: quyu[AT]tpri.com.cn
 
 Awards
 ======
